@@ -103,9 +103,6 @@ class Person{
             println("Вам подходит модель ${comp.model} ${comp.brand}")
             count += 1
         }
-//        else{
-//            println("Печаль :(")
-//        }
     }
 
     fun show(){
