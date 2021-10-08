@@ -36,7 +36,7 @@ fun main() {
 
     var notebooksToCheck = ArrayList<Notebook>()
 
-    for (i in 1..3){
+    for (i in 1..2){
         var note = Notebook()
         note.setData(i)
         notebooksToCheck.add(note)
